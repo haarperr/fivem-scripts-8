@@ -1,0 +1,28 @@
+Locales['de'] = {
+	['bulletproof'] = 'Schutzwesten',
+	['erdnuss'] = 'Erdnuss',
+	['apfel'] = 'Apfel',
+	['zitrone'] = 'Zitrone',
+	['press_collect'] = 'Drücke ~INPUT_CONTEXT~ um die benötigten Items für eine ~r~%s~s~ aufzusammeln',
+	['press_process'] = 'Drücke ~INPUT_CONTEXT~ um die benötigten Items für eine ~r~%s~s~ zu verarbeiten',
+	['press_sell'] = 'Drücke ~INPUT_CONTEXT~ um die ~r~%s~s~ zu erhalten',
+	['act_imp_police'] = 'Es sind zu wenig Beamten im Staate: ~o~%s~s~/~y~%s~s~',
+	['no_pouches_sale'] = 'Du hast nicht genug ~r~Drogen bei dir~s~ um zu verkaufen',	
+	['pickup_in_prog'] = '~y~Du sammelst gerade~s~...',
+	['too_many_pouches'] = 'Du hast genug ~r~Drogenpackungen bei dir',
+	['packing_in_prog'] = '~y~Du füllst gerade die Päckchen um~s~...',
+	['inv_full'] = 'Du hast genug ~r~%s~s~ bei dir, du hast keinen Platz mehr',
+	['not_enough'] = 'Du hast nicht genug ~r~%s~s~ um zu verkaufen',
+	['sold_one'] = 'Du verkaufst ~r~%s~s~',
+	['used_one'] = 'Du hast ~r~x1 ~r~%s~s~ benutzt',
+	['sale_in_prog'] = '~g~Du verkaufst gerade~s~...',
+	['exit_marker'] = 'Drücke ~INPUT_CONTEXT~ um ~y~das Gebiet zu verlassen.',
+	['foot_work'] = 'Du musst auf Füssen sein, um den Vorgang anzufangen.',
+	['act_call_police'] = ':~r~Eil-Nachricht: Verdächtige Personen machen Illegale Aktivitäten!~r~',
+	['stop_action'] = 'Drücke ~g~[%s]~w~ um den Vorgang abzubrechen.',
+	
+	-- Blips
+	['field'] = '%s Feld',
+	['processing'] = '%s Verarbeiter',
+	['dealer'] = '%s Verkauf',
+}
